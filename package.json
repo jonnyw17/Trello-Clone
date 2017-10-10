@@ -1,0 +1,33 @@
+{
+  "name": "trello-clone",
+  "version": "1.0.0",
+  "description": "React Trello Clone",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyw17/Trello-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnyw17/Trello-Clone/issues"
+  },
+  "homepage": "https://github.com/jonnyw17/Trello-Clone#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack-dev-server": "^2.9.1",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "bulma": "^0.5.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
